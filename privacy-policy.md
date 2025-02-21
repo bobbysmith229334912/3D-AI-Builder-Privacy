@@ -15,3 +15,11 @@
 
 **4. Contact Us**  
 If you have any questions, contact us at hardcoreamaturesite@gmail.com.
+
+##5. TrueDepth API Usage
+Our app utilizes Apple's TrueDepth API for **enhancing 3D file processing and user facial detection.** 
+- **Data Collected**: The app only processes depth data for real-time preview. No data is saved or stored.
+- **Purpose**: The TrueDepth API is used for improving 3D model alignment and enhancing the user experience.
+- **No Third-Party Sharing**: We do not share any TrueDepth data with external services or third parties.
+- **Data Storage**: TrueDepth data is processed locally on the device and never transmitted to our servers.
+
